@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unrealengenprogects\\testgame\\intermediate\\build\\win64\\unrealeditor\\inc\\testgame\\uht\\tilegenerator.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unrealengenprogects\\testgame\\intermediate\\build\\win64\\x64\\testgameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unrealengenprogects\\testgame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\testgame\\definitions.testgame.h",
+            "d:\\unrealengenprogects\\testgame\\source\\testgame\\public\\tilegenerator.h",
+            "d:\\unrealengenprogects\\testgame\\intermediate\\build\\win64\\unrealeditor\\inc\\testgame\\uht\\tilegenerator.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

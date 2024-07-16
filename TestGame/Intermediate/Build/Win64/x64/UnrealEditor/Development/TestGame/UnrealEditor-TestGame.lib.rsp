@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TestGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UnrealEngenProgects\TestGame\Intermediate\Build\Win64\x64\TestGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\UnrealEngenProgects\TestGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TestGame\MapGenerator.gen.cpp.obj"
+"D:\UnrealEngenProgects\TestGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TestGame\TestGame.init.gen.cpp.obj"
+"D:\UnrealEngenProgects\TestGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TestGame\TileGenerator.gen.cpp.obj"
+"D:\UnrealEngenProgects\TestGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TestGame\TestGame.cpp.obj"
+"D:\UnrealEngenProgects\TestGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TestGame\MapGenerator.cpp.obj"
+"D:\UnrealEngenProgects\TestGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TestGame\TileGenerator.cpp.obj"
+"D:\UnrealEngenProgects\TestGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TestGame\Default.rc2.res"
+/OUT:"D:\UnrealEngenProgects\TestGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TestGame\UnrealEditor-TestGame.lib"

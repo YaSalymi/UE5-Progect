@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TestGame.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TestGame.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TestGameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\UpgradeLog.htm" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TestGame">
+      <UniqueIdentifier>{9E1B27CD-5A4B-38CE-9B20-694C0641CF59}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TestGame\TestGame.Build.cs">
+      <Filter>Source\TestGame</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TestGame\TestGame.cpp">
+      <Filter>Source\TestGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestGame\TestGame.h">
+      <Filter>Source\TestGame</Filter>
+    </ClInclude>
+    <Filter Include="Source\TestGame\Private">
+      <UniqueIdentifier>{00A3C9FF-6EA1-31D4-A4C8-026E69C356D1}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TestGame\Private\MapGenerator.cpp">
+      <Filter>Source\TestGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TestGame\Private\TileGenerator.cpp">
+      <Filter>Source\TestGame\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\TestGame\Public">
+      <UniqueIdentifier>{569DB759-7DC0-3BEB-A551-91AD4D0C4D8E}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\TestGame\Public\MapGenerator.h">
+      <Filter>Source\TestGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\TestGame\Public\TileGenerator.h">
+      <Filter>Source\TestGame\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unrealengenprogects\\testgame\\source\\testgame\\private\\mapgenerator.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unrealengenprogects\\testgame\\intermediate\\build\\win64\\x64\\testgameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unrealengenprogects\\testgame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\testgame\\definitions.testgame.h",
+            "d:\\unrealengenprogects\\testgame\\source\\testgame\\public\\mapgenerator.h",
+            "d:\\unrealengenprogects\\testgame\\intermediate\\build\\win64\\unrealeditor\\inc\\testgame\\uht\\mapgenerator.generated.h",
+            "z:\\unreal engine\\ue_5.4\\engine\\plugins\\runtime\\proceduralmeshcomponent\\source\\proceduralmeshcomponent\\public\\proceduralmeshcomponent.h",
+            "z:\\unreal engine\\ue_5.4\\engine\\plugins\\runtime\\proceduralmeshcomponent\\intermediate\\build\\win64\\unrealeditor\\inc\\proceduralmeshcomponent\\uht\\proceduralmeshcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
